@@ -265,7 +265,14 @@ Algunos de los beneficios de la CI/CD son:
 
 ### Documentar el proceso seguido para desplegar la parte 2 del laboratorio
 
+1. Crear un repositorio en GitHub con un nombre descritivo
+2. Crear el repositorio local siguiendo los comandos mencionados en la sección 2 de esta documentación.
+3. Agregar el repositorio remoto al local, agregar los archivos al repositorio local y hacer un commit en el repositorio remoto.
+4. Ingresar al sitio web de Netlify, conectar con la misma cuenta de GitHub que se utiliza para el repositorio creado anteriormente.
+5. Seguir los pasos de despliegue seleccionando el repositorio creado.
+6. Netlify se encarga de desplegar automaticamente la página.
 
+Link de Netlify: https://illustrious-semolina-bc6bb4.netlify.app/
 
 ## Fuentes
 
